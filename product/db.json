@@ -1,0 +1,22 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name": "Hammer",
+            "src": "https://picsum.photos/180/100",
+            "details": "Nam laoreet ante sapien, non lobortis enim fringilla id. Praesent sit amet dignissim ex. Nam scelerisque augue ante, vel vestibulum nisi commodo ac. Nullam et lectus a dui efficitur finibus. Fusce tristique luctus congue. Donec eget ligula tortor. Nulla pretium urna sed nisl luctus suscipit. Sed pretium libero vehicula ultricies lacinia. Cras elementum faucibus dictum. Duis tincidunt eu sem eu rutrum."
+        },
+        {
+            "id":2,
+            "name": "Nail",
+            "src": "https://picsum.photos/180/100",
+            "details": "Nam laoreet ante sapien, non lobortis enim fringilla id. Praesent sit amet dignissim ex. Nam scelerisque augue ante, vel vestibulum nisi commodo ac. Nullam et lectus a dui efficitur finibus. Fusce tristique luctus congue. Donec eget ligula tortor. Nulla pretium urna sed nisl luctus suscipit. Sed pretium libero vehicula ultricies lacinia. Cras elementum faucibus dictum. Duis tincidunt eu sem eu rutrum."
+        },
+        {
+            "id":3,
+            "name": "1st aid kit",
+            "src": "https://picsum.photos/180/100",
+            "details": "Nam laoreet ante sapien, non lobortis enim fringilla id. Praesent sit amet dignissim ex. Nam scelerisque augue ante, vel vestibulum nisi commodo ac. Nullam et lectus a dui efficitur finibus. Fusce tristique luctus congue. Donec eget ligula tortor. Nulla pretium urna sed nisl luctus suscipit. Sed pretium libero vehicula ultricies lacinia. Cras elementum faucibus dictum. Duis tincidunt eu sem eu rutrum."
+        }
+    ]
+}

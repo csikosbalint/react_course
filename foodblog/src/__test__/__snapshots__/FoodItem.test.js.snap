@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FoodItem Component Snapshot FoodItem 1`] = `
+<a
+  className="list-group-item list-group-item-action"
+  disabled={false}
+  href="/food/undefined"
+  onClick={[Function]}
+>
+  alma
+</a>
+`;

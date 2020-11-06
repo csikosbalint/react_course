@@ -1,0 +1,69 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Course",
+      "details": "HTML/CSS/JS in depth examples"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "details": "React, Redux and React Native"
+    },
+    {
+      "id": 3,
+      "title": "Business and Lean",
+      "details": "How to align with Lean principles"
+    }
+  ],
+  "enquires": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "question": "my question is...",
+      "courseid": 1
+    },
+    {
+      "name": "Bela",
+      "question": "Alma?",
+      "courseid": 1,
+      "id": 4
+    },
+    {
+      "name": "Balint",
+      "question": "Mi ez?",
+      "courseid": 1,
+      "id": 5
+    },
+    {
+      "name": "v",
+      "question": "a",
+      "courseid": 1,
+      "id": 6
+    },
+    {
+      "name": "Balint",
+      "question": "Mi ez?",
+      "courseid": 1,
+      "id": 7
+    },
+    {
+      "name": "Balint",
+      "question": "Mikor?",
+      "courseid": 2,
+      "id": 8
+    },
+    {
+      "name": "A",
+      "question": "A",
+      "courseid": 1,
+      "id": 9
+    },
+    {
+      "name": "Kata",
+      "question": "Mikor lesz?",
+      "courseid": 1,
+      "id": 10
+    }
+  ]
+}

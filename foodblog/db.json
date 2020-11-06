@@ -1,0 +1,30 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "name": "hot-dog",
+            "details": "the number one fast food in north-america",
+            "receipe": {
+                "details": "lorem ipsum",
+                "ingredients": {
+                    "hot dog buns": "8 piece",
+                    "hot dog sausage": "8 piece",
+                    "ketchup": "8 cup"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "name": "pizza",
+            "details": "an italian classic",
+            "receipe": {
+                "details": "lorem ipsum",
+                "ingredients": {
+                    "wheat flour": "1 pound",
+                    "sausage": "20 dkg",
+                    "ketchup": "1 cup"
+                }
+            }
+        }
+    ]
+}

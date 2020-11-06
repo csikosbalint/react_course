@@ -1,0 +1,18 @@
+[
+    {
+        "name": "hamburger",
+        "vegan": false,
+        "fatfree": false
+    },
+    {
+        "name": "vagan burger",
+        "vegan": true,
+        "fatfree": false
+    },
+    {
+        "name": "vegan burger light",
+        "vegan": true,
+        "fatfree": true
+    }
+
+]
